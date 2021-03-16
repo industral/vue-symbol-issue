@@ -1,6 +1,6 @@
 <template>
-  break it!
-  <button>I'm a button #2!</button>
+  break it! -- remove it, and that component will work
+  <button>I'm a button!</button>
 </template>
 
 <script>
